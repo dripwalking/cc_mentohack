@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "sdkVersion": "25.0.0",
+    "name": "Care Coordination",
+    "version": "0.0.1",
+    "slug": "careapp",
+    "ios": {
+      "bundleIdentifier": "com.carecoordination.careapp"
+    },
+    "android": {
+      "package": "com.carecoordination.careapp"
+    }
+  }
+}
